@@ -5,7 +5,7 @@ TODO: Write this
 import itertools
 from setuptools import setup, find_packages
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 
 # TODO: Perhaps rename the package before registering with pypi
 #   and make it support full ddf
