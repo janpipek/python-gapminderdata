@@ -21,7 +21,7 @@ options = dict(
     author='Jan Pipek',
     author_email='jan.pipek@gmail.com',
     url='https://github.com/janpipek/python-gapminderdata',
-    install_requires = ['request', 'pandas'],
+    install_requires = ['requests', 'pandas'],
     python_requires="~=3.6",
     extras_require = {
         # 'all' : []
